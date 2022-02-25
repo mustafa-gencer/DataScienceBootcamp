@@ -1,0 +1,101 @@
+Rank,Rating,Title,No. of Reviews,Genre,Original Language,Director,Release Date (Streaming),Runtime
+1.,79%,It Happened One Night,98,"Romance, Comedy",English,FrankCapra,"Dec28, 1999",1h45m
+2.,83%,Citizen Kane,121,Drama,English,OrsonWelles,"Feb23, 2010",1h59m
+3.,92%,The Wizard of Oz,160,"Fantasy, Musical, Kids&family",English,VictorFleming,"Aug12, 2003",1h41m
+4.,100%,Modern Times,109,Comedy,English,CharlieChaplin,"Nov16, 2010",1h29m
+5.,90%,Black Panther,525,"Action, Fantasy, Adventure",English,RyanCoogler,"May2, 2018",2h14m
+6.,89%,Parasite (Gisaengchung),464,"Drama, Mystery&thriller, Comedy",Korean,BongJoonHo,"Oct11, 2019",2h12m
+7.,82%,Avengers: Endgame,547,"Action, Sci-fi, Fantasy, Adventure",English,"AnthonyRusso, JoeRusso","Jul30, 2019",3h1m
+8.,96%,Casablanca,124,Drama,English,MichaelCurtiz,"Nov17, 1998",1h42m
+9.,82%,Knives Out,468,"Crime, Drama, Mystery&thriller, Comedy",English,RianJohnson,"Jun12, 2020",2h10m
+10.,52%,Us,553,"Horror, Mystery&thriller",English,JordanPeele,"Jun4, 2019",1h56m
+11.,98%,Toy Story 4,453,"Kids&family, Adventure, Comedy, Fantasy, Animation",English,JoshCooley,"Oct1, 2019",1h40m
+12., 99%,Lady Bird,398,"Drama, Comedy",English,GretaGerwig,"Mar6, 2018",1h34m
+13., 99%,Mission: Impossible - Fallout,437,"Action, Mystery&thriller, Adventure",English,ChristopherMcQuarrie,"Oct23, 2018",2h27m
+14., 98%,BlacKkKlansman,447,"Crime, Drama, Comedy",English,SpikeLee,"Nov6, 2018",2h14m
+15., 98%,Get Out,398,"Horror, Mystery&thriller, Comedy",English,JordanPeele,"May23, 2017",1h44m
+16., 96%,The Irishman,456,"Crime, Drama",English,MartinScorsese,"Nov27, 2019",3h29m
+17., 98%,The Godfather,134,"Crime, Drama",English,FrancisFordCoppola,"May11, 2004",2h57m
+18., 94%,Mad Max: Fury Road,434,"Action, Adventure",English,GeorgeMiller,"Sep1, 2015",2h0m
+19., 99%,Spider-Man: Into the Spider-Verse,393,"Action, Kids&family, Adventure, Comedy, Fantasy, Animation",English,"BobPersichetti, PeterRamsey, RodneyRothman","Mar19, 2019",1h57m
+20., 97%,Moonlight,393,"Drama, Lgbtq+",English,BarryJenkins,"Feb28, 2017",1h51m
+21., 93%,Sunset Boulevard,110,Drama,English,BillyWilder,"Nov11, 2008",1h50m
+22., 97%,All About Eve,103,Drama,English,JosephL.Mankiewicz,"Feb5, 2004",2h18m
+23., 99%,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari),68,"Horror, Mystery&thriller, Fantasy",German,RobertWiene,"Feb16, 1999",1h9m
+24., 97%,The Philadelphia Story,102,"Romance, Comedy",English,GeorgeCukor,"May16, 2000",1h52m
+25., 96%,Roma,404,Drama,Spanish,AlfonsoCuarón,"Dec15, 2018",2h15m
+26., 98%,Wonder Woman,472,"Action, Fantasy, Adventure",English,PattyJenkins,"Sep26, 2017",2h21m
+27., 95%,A Star Is Born,528,"Music, Drama, Romance",English,BradleyCooper,"Feb19, 2019",2h15m
+28., 97%,Inside Out,379,"Comedy, Animation, Fantasy, Kids&family",English,PeteDocter,"Nov3, 2015",1h35m
+29., 97%,A Quiet Place,387,"Horror, Mystery&thriller",English,JohnKrasinski,"Jul10, 2018",1h30m
+30., 97%,One Night in Miami,335,Drama,English,ReginaKing,"Jan15, 2021",1h50m
+31., 98%,Eighth Grade,319,"Drama, Comedy",English,BoBurnham,"Oct9, 2018",1h33m
+32., 98%,Rebecca,95,Mystery&thriller,English,AlfredHitchcock,"Oct14, 2008",2h10m
+33., 99%,Booksmart,378,"Lgbtq+, Comedy",English,OliviaWilde,"Aug20, 2019",1h42m
+34., 99%,Logan,424,"Fantasy, Action, Adventure",English,JamesMangold,"Jun20, 2017",2h17m
+35., 100%,His Girl Friday,100,Comedy,English,HowardHawks,"Nov21, 2000",1h32m
+36., 96%,Portrait of a Lady on Fire (Portrait de la jeune fille en feu),324,"Drama, Romance, Lgbtq+, History",French(France),CélineSciamma,"Apr3, 2020",2h1m
+37., 93%,Coco,354,"Adventure, Comedy, Music, Animation",English,LeeUnkrich,"Feb13, 2018",1h49m
+38., 90%,Dunkirk,463,"War, Drama, History",English,ChristopherNolan,"Dec12, 2017",1h47m
+39., 98%,Star Wars: The Last Jedi,483,"Adventure, Action, Fantasy, Sci-fi",English,RianJohnson,"Mar27, 2018",2h32m
+40., 96%,A Night at the Opera,70,Comedy,English,SamWood,"May4, 2004",1h33m
+41., 98%,The Shape of Water,460,"Romance, Fantasy",English,GuillermodelToro,"Mar13, 2018",2h3m
+42., 99%,Thor: Ragnarok,437,"Action, Adventure, Comedy, Fantasy, Sci-fi",English,TaikaWaititi,"Mar6, 2018",2h10m
+43., 100%,Spotlight,376,Drama,English,TomMcCarthy,"Feb23, 2016",2h8m
+44., 96%,The Farewell,345,"Drama, Comedy",English,LuluWang,"Aug27, 2019",1h40m
+45., 94%,Selma,313,"Drama, History",English,AvaDuVernay,"May5, 2015",2h8m
+46., 99%,The Third Man,86,Mystery&thriller,English,CarolReed,"Oct28, 2008",1h44m
+47., 98%,Rear Window,122,Mystery&thriller,English,AlfredHitchcock,"Sep7, 2004",1h52m
+48., 97%,E.T. The Extra-Terrestrial,136,"Sci-fi, Adventure",English,StevenSpielberg,"Aug23, 2005",1h55m
+49., 92%,Seven Samurai (Shichinin no Samurai),88,Action,Japanese,AkiraKurosawa,"Sep5, 2006",3h28m
+50., 91%,La Grande illusion (Grand Illusion),68,"War, Drama",French(Canada),JeanRenoir,"Nov23, 1999",1h57m
+51., 97%,Arrival,435,"Drama, Mystery&thriller, Sci-fi",English,DenisVilleneuve,"Feb14, 2017",1h56m
+52., 92%,Singin' in the Rain,67,"Musical, Comedy",English,"StanleyDonen, GeneKelly","Sep24, 2002",1h42m
+53., 93%,The Favourite,423,"Drama, Comedy",English(UnitedKingdom),YorgosLanthimos,"Feb12, 2019",2h0m
+54., 97%,Double Indemnity,92,"Crime, Drama",English,BillyWilder,"Aug29, 2006",1h46m
+55., 97%,All Quiet on the Western Front,81,War,English,LewisMilestone,"Feb6, 2007",1h45m
+56., 99%,Snow White and the Seven Dwarfs,54,"Animation, Kids&family, Fantasy",English,DavidHand,"Nov16, 2004",1h20m
+57., 99%,Marriage Story,393,"Comedy, Drama",English,NoahBaumbach,"Dec6, 2019",2h16m
+58., 98%,The Big Sick,305,"Romance, Comedy",English,MichaelShowalter,"Sep19, 2017",2h0m
+59., 99%,On the Waterfront,107,Drama,English,EliaKazan,"Oct23, 2001",1h48m
+60., 100%,Star Wars: Episode VII - The Force Awakens,446,"Adventure, Action, Fantasy, Sci-fi",English,J.J.Abrams,"Apr5, 2016",2h16m
+61., 97%,An American in Paris,94,"Romance, Musical",English,VincenteMinnelli,"Dec2, 2004",1h53m
+62., 94%,The Best Years of Our Lives,91,Drama,English,WilliamWyler,"Jul18, 2000",2h52m
+63., 100%,Metropolis,135,"Drama, Sci-fi",German,FritzLang,"Mar22, 2007",2h3m
+64., 93%,Boyhood,328,Drama,English,RichardLinklater,"Jan6, 2015",2h45m
+65., 97%,Gravity,357,"Drama, Mystery&thriller, Sci-fi",English,AlfonsoCuarón,"Feb25, 2014",1h31m
+66., 98%,Leave No Trace,248,Drama,English,DebraGranik,"Oct2, 2018",1h48m
+67., 98%,The Maltese Falcon,64,"Crime, Drama",English,JohnHuston,"Sep1, 2009",1h40m
+68., 94%,The Invisible Man,412,"Horror, Mystery&thriller",English,LeighWhannell,"Mar20, 2020",2h4m
+69., 98%,12 Years a Slave,374,"Biography, Drama, History",English,SteveMcQueen,"Mar4, 2014",2h14m
+70., 99%,Once Upon a Time In Hollywood,571,"Drama, Comedy",English,QuentinTarantino,"Aug27, 2019",2h39m
+71., 93%,Argo,360,"Drama, Mystery&thriller, History",English,BenAffleck,"Feb19, 2013",2h0m
+72., 96%,Soul,344,"Animation, Kids&family, Comedy, Adventure",English,PeteDocter,"Dec25, 2020",1h40m
+73., 98%,Ma Rainey's Black Bottom,301,"Music, Drama, History",English,GeorgeC.Wolfe,"Dec18, 2020",1h34m
+74., 97%,The Kid,49,"Drama, Comedy",English,CharlieChaplin,"May1, 2005",1h0m
+75., 97%,Manchester by the Sea,353,Drama,English,KennethLonergan,"Feb21, 2017",2h17m
+76., 96%,"Nosferatu, a Symphony of Horror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire)",69,"Fantasy, Horror",German,F.W.Murnau,"Jan2, 2001",1h5m
+77., 100%,The Adventures of Robin Hood,48,"Adventure, Action",English,"MichaelCurtiz, WilliamKeighley","Sep30, 2003",1h42m
+78., 100%,La La Land,467,"Comedy, Drama, Romance, Musical",English,DamienChazelle,"Apr25, 2017",2h8m
+79., 92%,North by Northwest,109,Mystery&thriller,English,AlfredHitchcock,"Nov3, 2009",2h16m
+80., 95%,Laura,65,Mystery&thriller,English,OttoPreminger,"Mar15, 2005",1h28m
+81., 85%,Spider-Man: Far From Home,453,"Action, Comedy, Fantasy, Adventure",English,JonWatts,"Aug27, 2019",2h9m
+82., 96%,Incredibles 2,387,"Action, Kids&family, Adventure, Comedy, Animation",English,BradBird,"Nov6, 2018",1h58m
+83., 95%,Zootopia,298,"Animation, Kids&family, Comedy, Adventure",English,"ByronHoward, RichMoore","Jun7, 2016",1h48m
+84., 97%,Alien,127,"Horror, Sci-fi",English,RidleyScott,"Jun1, 1999",1h57m
+85., 100%,King Kong,66,"Fantasy, Adventure",English,"MerianC.Cooper, ErnestB.Schoedsack","Nov22, 2005",1h40m
+86., 96%,Shadow of a Doubt,49,"Crime, Drama, Mystery&thriller",English,AlfredHitchcock,"Oct4, 2005",1h48m
+87., 97%,Call Me by Your Name,363,"Drama, Romance, Lgbtq+",English,LucaGuadagnino,"Mar13, 2018",2h12m
+88., 100%,Psycho,105,"Horror, Mystery&thriller",English,AlfredHitchcock,"Oct4, 2005",1h49m
+89., 91%,1917,461,"War, Drama, History",English,SamMendes,"Dec25, 2019",1h59m
+90., 97%,L.A. Confidential,161,"Crime, Drama",English,CurtisHanson,"Sep23, 2008",2h16m
+91., 100%,The Florida Project,317,Drama,English,SeanBaker,"Feb20, 2018",1h55m
+92., 90%,War for the Planet of the Apes,361,"Action, Adventure, Sci-fi",English,MattReeves,"Oct24, 2017",2h22m
+93., 93%,Paddington 2,247,"Kids&family, Comedy, Adventure",English(UnitedKingdom),PaulKing,"Apr24, 2018",1h43m
+94., 98%,A Hard Day's Night,112,"Comedy, Musical",English,RichardLester,"Sep24, 2002",1h23m
+95., 98%,Widows,420,"Crime, Drama, Mystery&thriller",English,SteveMcQueen,"Feb5, 2019",2h8m
+96., 98%,Never Rarely Sometimes Always,236,Drama,English,ElizaHittman,"Apr3, 2020",1h41m
+97., 100%,Baby Driver,396,"Action, Mystery&thriller",English,EdgarWright,"Sep26, 2017",1h53m
+98., 94%,Spider-Man: Homecoming,395,"Action, Comedy, Fantasy, Adventure",English,JonWatts,"Oct17, 2017",2h13m
+99., 96%,"The Godfather, Part II",114,"Crime, Drama",English,FrancisFordCoppola,"May24, 2005",3h20m
+100., 89%,The Battle of Algiers (La Battaglia di Algeri),89,"War, Drama, History",Arabic,GilloPontecorvo,"Oct19, 2004",2h5m
